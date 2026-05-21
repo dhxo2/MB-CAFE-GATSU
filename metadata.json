@@ -1,0 +1,6 @@
+{
+  "name": "MB Cafe - Gatsu",
+  "description": "Website for MB Cafe Gatsu Semarang, featuring menu, gallery, reviews and location.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
